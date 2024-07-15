@@ -6,3 +6,4 @@ def my_function():
 
 print('I dont fuck with git anymore')
 print('help me god please')
+print("oh god help me god")
